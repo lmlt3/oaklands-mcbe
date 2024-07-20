@@ -2,7 +2,7 @@
 	"format_version": "1.10.0",
 	"minecraft:attachable": {
 		"description": {
-			"identifier": "minecraft:diamond_pickaxe",
+			"identifier": "minecraft:iron_pickaxe",
 			"render_controllers": ["controller.render.item_default"],
 			"materials": {
 				"default": "entity_alphatest",

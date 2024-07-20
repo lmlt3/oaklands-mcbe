@@ -2,21 +2,21 @@
 	"texture_data": {
 		"axe": {
 			"textures": [
-				"textures/items/rusty_axe",
 				"textures/items/steel_axe",
 				"textures/items/refined_axe",
-				"textures/items/living_axe",
 				"textures/items/reinforced_axe",
+				"textures/items/rusty_axe",
+				"textures/items/living_axe",
 				"textures/items/emberbane"
 			]
 		},
 		"pickaxe": {
 			"textures": [
-				"textures/items/rusty_pickaxe",
 				"textures/items/steel_pickaxe",
 				"textures/items/refined_pickaxe",
-				"textures/items/uncertain_pickaxe",
 				"textures/items/reinforced_pickaxe",
+				"textures/items/rusty_pickaxe",
+				"textures/items/uncertain_pickaxe",
 				"textures/items/gleam_harvester"
 			]
 		},
