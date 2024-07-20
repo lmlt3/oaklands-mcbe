@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.rusty_axe.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [160, 20, 56.25],
+					"position": [8, 24, 8]
+				}
+			}
+		},
+		"animation.rusty_axe.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [90, 22.5, 112.5],
+					"position": [0, 23.5, 3.75]
+				}
+			}
+		}
+	}
+}

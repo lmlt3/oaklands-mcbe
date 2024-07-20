@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.steel_axe.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [160, 20, 45],
+					"position": [8, 24, 8]
+				}
+			}
+		},
+		"animation.steel_axe.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [90, 22.5, 90],
+					"position": [0, 22.5, 3.5]
+				}
+			}
+		}
+	}
+}

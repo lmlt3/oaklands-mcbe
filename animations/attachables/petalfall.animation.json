@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.petalfall.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [28.51228, -40.87177, 212.53807],
+					"position": [8, 18, 12]
+				}
+			}
+		},
+		"animation.petalfall.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [90, 0, -90],
+					"position": [0, 23.25, 2.5]
+				}
+			}
+		}
+	}
+}

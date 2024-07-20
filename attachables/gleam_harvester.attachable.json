@@ -1,0 +1,34 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "minecraft:netherite_pickaxe",
+			"render_controllers": ["controller.render.item_default"],
+			"materials": {
+				"default": "entity_alphatest",
+				"enchanted": "entity_alphatest_glint"
+			},
+			"textures": {
+				"default": "textures/entity/attachable/gleam_harvester",
+				"enchanted": "textures/misc/enchanted_item_glint"
+			},
+			"geometry": {
+				"default": "geometry.gleam_harvester"
+			},
+			"animations": {
+				"first_person_hold": "animation.gleam_harvester.first_person_hold",
+				"third_person_hold": "animation.gleam_harvester.third_person_hold"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"first_person_hold": "c.is_first_person"
+					},
+					{
+						"third_person_hold": "!c.is_first_person"
+					}
+				]
+			}
+		}
+	}
+}

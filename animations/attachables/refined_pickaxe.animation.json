@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.refined_pickaxe.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [160, 20, 45],
+					"position": [8, 24, 8]
+				}
+			}
+		},
+		"animation.refined_pickaxe.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [90, 0, 90],
+					"position": [0, 23, 3]
+				}
+			}
+		}
+	}
+}
