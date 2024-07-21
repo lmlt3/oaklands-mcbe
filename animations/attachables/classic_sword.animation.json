@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.classic_sword.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [160, 30, 45],
+					"position": [8, 21, 8]
+				}
+			}
+		},
+		"animation.classic_sword.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [90, 0, 90],
+					"position": [0, 23, 3.85]
+				}
+			}
+		}
+	}
+}
